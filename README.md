@@ -1,6 +1,8 @@
 # Airbnb Demand Forecasting with Ticketmaster Signals
 ### A Random Forest Framework Integrating Venue Capacity and Geo-spatial Event Data
 
+📄 **[Read the Full Academic Paper (PDF)](./docs/D606_Task2 - Capstone.pdf)
+
 ## Problem Statement
 Demand forecasting in the short-term rental market is essential for businesses seeking to optimize their pricing strategies and maximize revenue. At the same time, accurate demand forecasting helps guests make better decisions about whether to book a property immediately or delay booking due to wide availability. Traditional forecasting models usually look only at baseline property data, such as a listing's historical price, location, or day of the week. However, these internal metrics often miss sudden spikes in external demand caused by major concerts, sporting events, or festivals. This study tests whether integrating hyper-local live entertainment data from the Ticketmaster API significantly improves the forecasting accuracy of a Random Forest classifier.
 
